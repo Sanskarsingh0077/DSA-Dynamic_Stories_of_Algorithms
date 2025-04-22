@@ -67,14 +67,6 @@ Feel free to connect with me!
 
 ---
 
-### 🔗 **Badges**
-
-[![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/your-repository-name?style=social)](https://github.com/yourusername/your-repository-name)  
-[![LeetCode Progress](https://img.shields.io/badge/LeetCode%20Progress-300-blue)](https://leetcode.com/yourusername)  
-[![Python](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org)  
-[![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
-
----
 
 ## 🚀 **Let’s Learn and Build Together!**
 By combining stories with technical content, **DSA: Dynamic Stories of Algorithms** aims to make the journey of learning data structures and algorithms more engaging. Whether you are a beginner or an advanced learner, this repository will help you grasp DSA concepts in a fun and memorable way.

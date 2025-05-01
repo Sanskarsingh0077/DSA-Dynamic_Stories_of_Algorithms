@@ -4,7 +4,7 @@ Welcome to **DSA: Dynamic Stories of Algorithms**! This repository is dedicated 
 
 ---
 
-![Alt Text]((https://miro.medium.com/v2/resize:fit:1400/format:webp/1*dWet_YU-5072Kcko7LzsuQ.jpeg)
+![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*dWet_YU-5072Kcko7LzsuQ.jpeg)
 
 ## 📖 **Why Stories?**
 Data structures and algorithms can often feel like abstract concepts, but when approached with the right context, they become much easier to understand. Stories create a memorable learning experience by relating technical details to real-world scenarios. This helps you visualize and retain how and why algorithms work.

@@ -3,8 +3,7 @@
 Welcome to **DSA: Dynamic Stories of Algorithms**! This repository is dedicated to making learning data structures and algorithms (DSA) fun, engaging, and easier to understand by combining stories with technical concepts. Here, we break down complex algorithms and data structures into compelling narratives that make them much more relatable and easier to grasp.
 
 ---  
-#Time Complexities of Algorithms
-
+## Time Complexities of Algorithms
 
 ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*dWet_YU-5072Kcko7LzsuQ.jpeg)
 

@@ -4,7 +4,6 @@ Welcome to **DSA: Dynamic Stories of Algorithms**! This repository is dedicated 
 
 ---  
 ## Time Complexities of Algorithms
-
 ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*dWet_YU-5072Kcko7LzsuQ.jpeg)
 
 ## 📖 **Why Stories?**
